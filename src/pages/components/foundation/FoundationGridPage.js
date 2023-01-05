@@ -52,7 +52,7 @@ export default function FoundationGridPage() {
   return (
     <>
       <Helmet>
-        <title> Foundations: Grid | Minimal UI</title>
+        <title> Foundations: Grid | İmece Usûlü</title>
       </Helmet>
 
       <Box

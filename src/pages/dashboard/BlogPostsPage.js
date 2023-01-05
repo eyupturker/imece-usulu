@@ -55,7 +55,7 @@ export default function BlogPostsPage() {
   return (
     <>
       <Helmet>
-        <title> Blog: Posts | Minimal UI</title>
+        <title> Blog: Posts | İmece Usûlü</title>
       </Helmet>
 
       <Container maxWidth={themeStretch ? false : 'lg'}>

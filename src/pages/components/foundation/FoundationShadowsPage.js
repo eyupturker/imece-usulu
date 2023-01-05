@@ -45,7 +45,7 @@ export default function FoundationShadowsPage() {
   return (
     <>
       <Helmet>
-        <title> Foundations: Shadows | Minimal UI</title>
+        <title> Foundations: Shadows | İmece Usûlü</title>
       </Helmet>
 
       <Box

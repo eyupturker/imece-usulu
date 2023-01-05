@@ -28,7 +28,7 @@ export default function DemoEditorPage() {
   return (
     <>
       <Helmet>
-        <title> Extra Components: Editor | Minimal UI</title>
+        <title> Extra Components: Editor | İmece Usûlü</title>
       </Helmet>
 
       <Box
